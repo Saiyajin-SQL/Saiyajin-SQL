@@ -21,8 +21,8 @@ Meu objetivo é apresentar projetos na área de desenvolvimento em banco dados �
 
 <div align="center">
   <a href="https://github.com/Sayajin-SQL">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayajin-SQL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayajin-SQL&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sayajin-SQL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayajin-SQL&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
