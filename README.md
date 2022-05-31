@@ -3,7 +3,7 @@
 
 Olá Sayajin 👊💥
 
-Sejam bem-vindo ao meu portifólio de projetos 😁✌️
+Seja bem-vindo ao meu portifólio de projetos 😁✌️
 
 O conhecimento em banco de dados e a linguagem SQL é essencial para todo desenvolvedor  😎💻
 
