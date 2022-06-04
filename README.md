@@ -1,7 +1,7 @@
 
   <img width="200" height="200" align="center" style="border-radius:50px;" src="https://media1.tenor.com/images/da89ac962c46b17f191edaaa7d217e4a/tenor.gif?itemid=14803941" />
 
-Olá Sayajin 👊💥
+Olá Saiyajin 👊💥
 
 Seja bem-vindo ao meu portifólio de projetos 😁✌️
 
@@ -9,7 +9,7 @@ O conhecimento em banco de dados e a linguagem SQL é essencial para todo desenv
 
 O domínio da linguagem SQL irá facilitar o trabalho da equipe de desenvolvimento para a criação e desempenho de uma aplicação 📱💻💪🏻
 
-Veremos como desenvolver variações de SQL em diferentes bancos de dados e assim ultrapassar barreiras como um guerreiro Sayajin ⚡️
+Veremos como desenvolver variações de SQL em diferentes bancos de dados e assim ultrapassar barreiras como um guerreiro Saiyajin ⚡️
 
 Como já perceberam sou um amante de anime 📺🉐
 
