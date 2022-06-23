@@ -17,6 +17,8 @@ Também sou estudante da computação e busco me especializar em banco de dados 
 
 Meu objetivo é apresentar projetos na área de desenvolvimento em banco dados 🔨
 
+Irei apresentar também relatórios com visualizações desse dados no power BI 📈📊
+
 ##
 
 <div align="center">
