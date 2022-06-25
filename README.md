@@ -11,13 +11,12 @@ O domínio da linguagem SQL irá facilitar o trabalho da equipe de desenvolvimen
 
 Veremos como desenvolver variações de SQL em diferentes bancos de dados e assim ultrapassar barreiras como um guerreiro Saiyajin ⚡️
 
+Irei apresentar também relatórios com visualizações desse dados no power BI 📈📊
+
 Como já perceberam sou um amante de anime 📺🉐
 
-Também sou estudante da computação e busco me especializar em banco de dados 📚🔍
+Também sou estudante da computação e busco me especializar em análise e desenvolvimento em banco de dados 📚🔍
 
-Meu objetivo é apresentar projetos na área de desenvolvimento em banco dados 🔨
-
-Irei apresentar também relatórios com visualizações desse dados no power BI 📈📊
 
 ##
 
